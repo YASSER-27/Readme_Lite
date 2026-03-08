@@ -43,6 +43,8 @@ specialized Markdown workspace for building high‑quality README.md
 
 # `Video`
 
+https://github.com/user-attachments/assets/c0159d76-6f1c-4a7a-9474-5ae4dd913e38
+
 # Keyboard shortcuts
 
 | Key | key |
