@@ -28,19 +28,23 @@ specialized Markdown workspace for building high‑quality README.md
 |---|---|
 | ![assets/full.png](assets/full.png) | ![assets/screen.png](assets/screen.png) |
 
-#`git upload and draw tool`
+# `git upload and draw tool`
+
 |  |  |
 |---|---|
 | ![assets/app1.png](assets/app1.png) | ![assets\app2.png](assets/app2.png) |
-#`Theme`
+
+# `Theme`
+
 |  |  |
 |---|---|
 | ![assets\theme2.png](assets/theme2.png) | ![assets\theme1.png](assets/theme1.png) |
 | ![assets\theme.png](assets/theme.png) |  |
 
-#`Video`
+# `Video`
 
 # Keyboard shortcuts
+
 | Key | key |
 | :--- | :--- |
 | cntr+t | new tab |
