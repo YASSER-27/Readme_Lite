@@ -45,6 +45,8 @@ specialized Markdown workspace for building high‑quality README.md
 
 https://github.com/user-attachments/assets/c0159d76-6f1c-4a7a-9474-5ae4dd913e38
 
+> make sure you change \ to / 
+
 # Keyboard shortcuts
 
 | Key | key |
