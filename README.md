@@ -5,7 +5,9 @@
 ## Description
 specialized Markdown workspace for building high‑quality README.md
 
-> readme lite is just 60mb 
+> readme lite is just 60mb
+
+> for remove readme from right-click go to RUN and regedit and (Computer\HKEY_CLASSES_ROOT\Directory\Background\shell) and remove folder readme
 
 ## Features
 - Upload to github use token api 
